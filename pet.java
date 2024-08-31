@@ -6,7 +6,7 @@ public class pet {
 
         int time = 0; 
 
-        System.out.println("1.Resiodence; 2. Apartment; 3. Dormitory");
+        System.out.println("1.Residence; 2. Apartment; 3. Dormitory");
         System.out.println("Type of Residence:");
         String Residence = x.nextLine().toLowerCase();
         
